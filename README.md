@@ -25,7 +25,7 @@ I am a novice backend developer.  Step by step creating his own version of the d
 
 📊 **Stats**
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=liloksi&show_icons=true&theme=gruvbox)
 
 #
 
