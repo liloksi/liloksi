@@ -27,6 +27,12 @@ I am a novice backend developer.  Step by step creating his own version of the d
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
+#
+
+<details>
+<summary><h3>🚀 My Coding Journey<h3></summary>
+
+I started my coding career as a naive computer science student with a passion to learn everything possible about this programming world - code, games, theory. I went to programming courses in order to increase my knowledge. During the courses, I started studying with Python. Also, without wasting time, I myself am studying Blockchain development with the dream of creating my own Blockchain, and developing it to a global scale.
 
 
 
