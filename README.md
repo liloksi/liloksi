@@ -6,7 +6,7 @@
 
 I am a novice backend developer.  Step by step creating his own version of the digital world. All coding projects are created from scratch, starting with planning and ending with solving real problems using code.
 
-<a href="https://instagram.com/liloksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liloksi" height="30" width="40" /></a><img src="https://img.shields.io/badge/Gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=FF0000"/>   <img src="https://img.shields.io/badge/Instagram-C0C0C0?style=for-the-badge&logo=Instagram&logoColor=FF1493"/>   <img src="https://img.shields.io/badge/Twitter-C0C0C0?style=for-the-badge&logo=Twitter&logoColor=1E90FF"/>   <img src="https://img.shields.io/badge/Facebook-C0C0C0?style=for-the-badge&logo=Facebook&logoColor=00008B"/>   <img src="https://img.shields.io/badge/Telegram-C0C0C0?style=for-the-badge&logo=Telegram&logoColor=#1E90FF"/>
+<a href="https://instagram.com/liloksi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liloksi" height="30" width="40" />
 
 #
 
